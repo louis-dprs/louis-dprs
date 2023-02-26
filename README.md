@@ -20,9 +20,9 @@
 
 ![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)
 
-<a href=#><img src="code.gif"?raw=true" width="500" height="320"></a>
+<a href=#><img src="images/code.gif"?raw=true" width="500" height="320"></a>
 
-<a href=#><img src="code2.gif"?raw=true" width="500" height="320"></a>
+<a href=#><img src="images/code2.gif"?raw=true" width="500" height="320"></a>
 <!--
 **louis-dprs/louis-dprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
