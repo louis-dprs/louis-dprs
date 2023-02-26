@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour tout le monde 👋
 
 <a href=#><img src="images/contributions.svg"></a>
 
@@ -20,7 +20,7 @@
 
 [![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)]
 
-<a href=#><img src="images/code2.gif"></a>
+<a href=#><img src="images/code.gif"></a>
 
 <!--
 **louis-dprs/louis-dprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
