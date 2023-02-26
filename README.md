@@ -21,11 +21,7 @@
 ![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)
 
 <a href=#>
-    <img src="images/code.gif"?raw=true" width="400" height="220">
-</a>
-
-<a href=#>
-    <img src="images/code2.gif"?raw=true" width="400" height="220">
+    <img src="images/code.gif"?raw=true" width="500" height="320">
 </a>
 
 <!--
