@@ -6,22 +6,22 @@
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Étudiant en 2ème année de BTS
-├─▣ <a href="https://louis-dprs.github.io/">Mon portfolio</a>
+├─▣ <a href="https://louis-dprs.github.io/" target="_blank">Mon portfolio</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/louis-dprs">Twitter</a>
-├─◈ <a href="https://www.linkedin.com/in/louis-dprs">LinkedIn</a>
+├─◈ <a href="https://twitter.com/louis-dprs" target="_blank">Twitter</a>
+├─◈ <a href="https://www.linkedin.com/in/louis-dprs" target="_blank">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 </pre>
 
-[![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)]
+![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)
 
-<a href=#><img src="images/code.gif"></a>
-
+<a href=#><img src="images/code.gif"?raw=true" width="500" height="320"></a>
+<a href=#><img src="images/code2.gif"?raw=true" width="500" height="320"></a>
 <!--
 **louis-dprs/louis-dprs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
