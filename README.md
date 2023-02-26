@@ -2,6 +2,7 @@
 
 <a href=#><img src="images/contributions.svg"></a>
 
+<pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Étudiant en 2ème année de BTS
@@ -15,8 +16,9 @@
 ├─◈ <a href="https://www.linkedin.com/in/louis-dprs">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
+</pre>
 
-[![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs)]
+[![Louis-dprs's GitHub stats](https://github-readme-stats.vercel.app/api?username=louis-dprs&show_icons=true&theme=midnight-purple)]
 
 <a href=#><img src="images/code2.gif"></a>
 
