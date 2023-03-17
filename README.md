@@ -12,7 +12,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/louis-dprs" target="_blank">Twitter</a>
+├─◈ <a href="https://twitter.com/louis_dprs" target="_blank">Twitter</a>
 ├─◈ <a href="https://www.linkedin.com/in/louis-dprs" target="_blank">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
