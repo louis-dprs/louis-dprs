@@ -5,7 +5,7 @@
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Étudiant en 3ème au DIIAGE
+├─▣ Étudiant en 3ème au DIIAGE (Centre Universitaire Catholique De Bourgogne)
 ├─▣ <a href="https://louis-dprs.github.io/" target="_blank">Mon portfolio</a>
 │
 └───────────────────────────────▰▰▰
