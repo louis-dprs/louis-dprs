@@ -5,7 +5,7 @@
 <pre>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Étudiant en 2ème année de BTS
+├─▣ Étudiant en 3ème au DIIAGE
 ├─▣ <a href="https://louis-dprs.github.io/" target="_blank">Mon portfolio</a>
 │
 └───────────────────────────────▰▰▰
