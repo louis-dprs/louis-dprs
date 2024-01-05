@@ -1,10 +1,10 @@
 ### Bonjour tout le monde 👋
 
-<a href=#><img src="contributions.svg"></a>
-
 <p align="center">
   <img src="code.gif">
 </p>
+
+<a href=#><img src="contributions.svg"></a>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/louis-dprs" target="_blank">
